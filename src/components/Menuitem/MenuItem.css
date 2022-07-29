@@ -28,5 +28,17 @@ align-items: center;
 position: static;
 width: 119px;
 height: 1px;
+left: 224px;
+top: 14.5px;
+
+background: #FAFAFA;
+
+
+/* INSIDE LAYOUT */
+
+order: 1;
+flex: none;
+flex-grow: 0;
+margin: 0px 32px;
 
 }
