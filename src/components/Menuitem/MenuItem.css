@@ -24,10 +24,10 @@ align-items: center;
 }
 
 
-.app__menuitems-dash{
-width: 90pxpx;
+.app__menuitem-dash{
+width: 90px;
 height: 1px;
-background: var(--color-golden);
+background: var(--color-white);
 margin: 0px 1rem;
 
 }
